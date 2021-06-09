@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background : #FFFFFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+nav img {
+    max-width: 5.375rem;
+}
+
+.img_desc {
+    width: 17.375rem;
+}
+
+.card-body h5 {
+    font-weight: 300;
+}
+
+.card-body .card-title, .green, .mail {
+    font-size: 1.25rem;
+}
+
+.location {
+    font-size: 0.8125rem;
+    padding-bottom: 0.9375rem;
+}
+
+.prices {
+    padding: 0.9375rem 1.4375rem 0.9375rem 0;
+}
+
+.prices .gray {
+    padding-right: 0.6875rem;
+}
+
+.card-body-order {
+    padding: 0 0.9375rem 0 0.9375rem;
+}
+
+.send {
+    padding: 0.875rem 0 1.8125rem 0;
+}
+
+.send button {
+    padding: 0.5rem 2rem;
+    font-size: 1rem;
+}
+
+footer img {
+    width: 5.125rem;
+}
